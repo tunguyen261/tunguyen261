@@ -4,10 +4,9 @@
 <p>I am a software developer, and engineer from southeast Asia offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
 debugging code, designing interfaces, etc.</p>
 
-
-[![GitHub]](https://github.com/tunguyen261)
-[![LinkedIn]](https://www.linkedin.com/in/blckclov3r/)
-[![Facebook]](https://facebook.com/blckclov3r)
+[![GitHub]()](https://github.com/blckclov3r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aljun--Abrenica-0073B1)](https://www.linkedin.com/in/blckclov3r/)
+[![Facebook](https://img.shields.io/badge/Facebook-blckclov3r-0F91F3)](https://facebook.com/blckclov3r)
 
 
 
