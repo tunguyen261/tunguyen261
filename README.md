@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/blckclov3r"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;Software%20Engineer;Fullstack%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=670&height=100&color=006699&vCenter=true&size=50%42"></a>
+  <a href="https://github.com/tunguyen261"><img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a>
 </div>
 
 
