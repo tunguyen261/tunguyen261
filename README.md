@@ -5,7 +5,7 @@
 debugging code, designing interfaces, etc.</p>
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-blckclov3r-black)](https://github.com/blckclov3r)
+[![GitHub](https://img.shields.io/badge/GitHub-blckclov3r-black)](https://github.com/tunguyen261)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-blckclov3r-1F4D7D)](https://bitbucket.org/blckclov3r)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aljun--Abrenica-0073B1)](https://www.linkedin.com/in/blckclov3r/)
 [![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-blckclov3r-orange)](https://stackoverflow.com/users/14192188/blckclov3r?tab=profile)
