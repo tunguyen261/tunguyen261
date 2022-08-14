@@ -3,7 +3,7 @@
 
 <p>I am a software engineer from FPT University (3rd Year)</p>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-be5542?style=flat-square&logo=gmail&logoColor=white)](mailto:richard.taylor.dawson@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-be5542?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyendoantu2610@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-dawson-482927123/)
 
 
