@@ -1,7 +1,7 @@
 
 # Hi there, I'm Nguyễn Đoàn Tú <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
 
-<p>I am a software engineer from southeast Asia</p>
+<p>I am a software engineer from FPT University (3rd Year)</p>
 
 [![GitHub]()](https://github.com/blckclov3r)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aljun--Abrenica-0073B1)](https://www.linkedin.com/in/blckclov3r/)
