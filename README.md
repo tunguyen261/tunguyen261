@@ -1,5 +1,5 @@
 <div align="center">
-# Hi there, I'm Nguyễn Đoàn Tú <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
+<h1> Hi there, I am Nguyễn Đoàn Tú</h1> <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
 
 <p>I am a software engineer from FPT University (3rd Year)</p>
 
