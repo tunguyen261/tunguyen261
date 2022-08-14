@@ -1,8 +1,7 @@
 
 # Hi there, I'm Nguyễn Đoàn Tú <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
 
-<p>I am a software developer, and engineer from southeast Asia offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
-debugging code, designing interfaces, etc.</p>
+<p>I am a software engineer from southeast Asia</p>
 
 [![GitHub]()](https://github.com/blckclov3r)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aljun--Abrenica-0073B1)](https://www.linkedin.com/in/blckclov3r/)
@@ -32,7 +31,7 @@ debugging code, designing interfaces, etc.</p>
 
 <p>Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion.</p>
 
-<p>Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, Kotlin, Android, Arduino, C/C++, Affinity Photo, Affinity Designer, ReactJS & WordPress</p>
+<p>Software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Java, ReactJS</p>
 <br/>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blckclov3r&&show_icons=true)](https://blckclov3r.github.io)
