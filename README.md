@@ -2,11 +2,8 @@
 # Hi there, I'm Nguyễn Đoàn Tú <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
 
 <p>I am a software engineer from FPT University (3rd Year)</p>
-
-[![GitHub]()](https://github.com/blckclov3r)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aljun--Abrenica-0073B1)](https://www.linkedin.com/in/blckclov3r/)
-[![Facebook](https://img.shields.io/badge/Facebook-blckclov3r-0F91F3)](https://facebook.com/blckclov3r)
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-be5542?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyendoantu2610@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-%C4%91o%C3%A0n-t%C3%BA-59036323a/)
 
 
 <div align="center">
