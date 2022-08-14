@@ -2,8 +2,9 @@
 # Hi there, I'm Nguyễn Đoàn Tú <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
 
 <p>I am a software engineer from FPT University (3rd Year)</p>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-be5542?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyendoantu2610@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-%C4%91o%C3%A0n-t%C3%BA-59036323a/)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-be5542?style=flat-square&logo=gmail&logoColor=white)](mailto:richard.taylor.dawson@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-dawson-482927123/)
 
 
 <div align="center">
