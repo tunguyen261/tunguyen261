@@ -34,6 +34,3 @@
 <p>Software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Java, ReactJS</p>
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blckclov3r&&show_icons=true)](https://blckclov3r.github.io)
-
-
