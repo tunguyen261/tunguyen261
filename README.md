@@ -1,11 +1,11 @@
-
+<div align="center">
 # Hi there, I'm Nguyễn Đoàn Tú <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
 
 <p>I am a software engineer from FPT University (3rd Year)</p>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-be5542?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyendoantu2610@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyễn-đoàn-tú-59036323a/)
-
+</div>
 
 <div align="center">
   <a href="https://github.com/tunguyen261"><img src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/software-engineering-perspectives-how-to-become-an-engineer.jpeg"></a>
