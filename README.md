@@ -29,6 +29,6 @@
 
 <p>Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion.</p>
 
-<p>Software programming/technologies:Java, HTML5, CSS3, Javascript, Jquery, Bootstrap, ReactJS</p>
+<p>Software programming/technologies: Java, HTML5, CSS3, Javascript, Jquery, Bootstrap, ReactJS</p>
 <br/>
 
