@@ -41,7 +41,7 @@
 
 - 🤝 I’m looking for help with **Mobile Design and CI/CD**
 
-- 👨‍💻 All of my projects are available at [here]([here](https://github.com/tunguyen261))
+- 👨‍💻 All of my projects are available at [here]([https://github.com/tunguyen261](herr))
 
 - 📝 I regularly write articles on [Nah I not write](Nah I not write)
 
