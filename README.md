@@ -31,7 +31,7 @@
 
 <p>Software programming/technologies: Java, HTML5, CSS3, Javascript, Jquery, Bootstrap, ReactJS</p>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tunguyen261&label=Profile%20views&color=0e75b6&style=flat" alt="tunguyen261" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tunguyen261&label=Profile%20views&color=0e75b6&style=flat" alt="tunguyen261" /> </p>
 
 - 🔭 I’m currently working on [FFMS](https://github.com/tunguyen261/facility-management-system-mobile)
 
